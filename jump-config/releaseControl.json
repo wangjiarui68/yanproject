@@ -1,3 +1,4 @@
 {
-  "maxAppVersion": "1.0"
+  "maxAppVersion": "1.0",
+  "gateway": true
 }

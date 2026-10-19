@@ -1,606 +1,606 @@
 {
   "schemaVersion": 2,
   "gameId": "crazy-road",
-  "version": "6ccdf39099a1ba68476579e6916d90f7e89cad0ef59de9c290ba61c5dbc4ba93",
+  "version": "21641ccffb3784cace727c6fe8b8b547cd939e28275d617321ce321987272f58",
   "gameplay": {
-    "file": "gameplay.ec2bcb57465e034035c0a244ca50987e9feb6fb9eab329d9c1c4167ef973a89f.json",
+    "file": "gameplay.json",
     "hash": "ec2bcb57465e034035c0a244ca50987e9feb6fb9eab329d9c1c4167ef973a89f"
   },
   "countries": {
     "AL": {
-      "file": "al.2318a49cb50ff894e54b16d5051ba4ad897a60dd2663b71c8695349c56800735.json",
+      "file": "al.json",
       "hash": "2318a49cb50ff894e54b16d5051ba4ad897a60dd2663b71c8695349c56800735"
     },
     "AM": {
-      "file": "am.a1040c7a8ed6434b95e755312ea4666b466d126716722feeb31bbdba46014a00.json",
+      "file": "am.json",
       "hash": "a1040c7a8ed6434b95e755312ea4666b466d126716722feeb31bbdba46014a00"
     },
     "AO": {
-      "file": "ao.d3d49bbabe73d267062cf57307b8e891d721c02bd629616a1f7d4551abff6056.json",
+      "file": "ao.json",
       "hash": "d3d49bbabe73d267062cf57307b8e891d721c02bd629616a1f7d4551abff6056"
     },
     "AR": {
-      "file": "ar.74f40ee3ed3ee324d4f74d48a2a645e946458f0a181dba78e85d43788b5eb120.json",
+      "file": "ar.json",
       "hash": "74f40ee3ed3ee324d4f74d48a2a645e946458f0a181dba78e85d43788b5eb120"
     },
     "AT": {
-      "file": "at.6795ea74f4a7ff49fe2101fb421cf4fb02a736e524d81898fff0a8c3eb9d3c6a.json",
+      "file": "at.json",
       "hash": "6795ea74f4a7ff49fe2101fb421cf4fb02a736e524d81898fff0a8c3eb9d3c6a"
     },
     "AU": {
-      "file": "au.455335cced963dd7f2f2f977802de5f5f12c59acaecc2bc9b25f5252750547e6.json",
+      "file": "au.json",
       "hash": "455335cced963dd7f2f2f977802de5f5f12c59acaecc2bc9b25f5252750547e6"
     },
     "AZ": {
-      "file": "az.93679359036af6b86bccc73c13479241cea31fd62f6a95318c2734ed523ce326.json",
+      "file": "az.json",
       "hash": "93679359036af6b86bccc73c13479241cea31fd62f6a95318c2734ed523ce326"
     },
     "BA": {
-      "file": "ba.4b8080905dac8564ead12ab71a942087a35dd3e28f69d4675dbefdb52d48ce6b.json",
+      "file": "ba.json",
       "hash": "4b8080905dac8564ead12ab71a942087a35dd3e28f69d4675dbefdb52d48ce6b"
     },
     "BB": {
-      "file": "bb.8fc4910bdad5b5e935a95ebec1339dfd85440e7795218ac98867f9a112df4469.json",
+      "file": "bb.json",
       "hash": "8fc4910bdad5b5e935a95ebec1339dfd85440e7795218ac98867f9a112df4469"
     },
     "BD": {
-      "file": "bd.59c4a6dc22a62c0463abf792c08db541fbb4e8ca827953844707c1aed920c1db.json",
+      "file": "bd.json",
       "hash": "59c4a6dc22a62c0463abf792c08db541fbb4e8ca827953844707c1aed920c1db"
     },
     "BE": {
-      "file": "be.d135a4a9945ebbac0aa1a4ad2e5d0e3fcea5b29c4c4560ae301b8b8609c4fbb5.json",
+      "file": "be.json",
       "hash": "d135a4a9945ebbac0aa1a4ad2e5d0e3fcea5b29c4c4560ae301b8b8609c4fbb5"
     },
     "BF": {
-      "file": "bf.02ac730efc143aa42b75a974fff90a18757d08e10682e3b0bdec958cd7f80e97.json",
+      "file": "bf.json",
       "hash": "02ac730efc143aa42b75a974fff90a18757d08e10682e3b0bdec958cd7f80e97"
     },
     "BG": {
-      "file": "bg.fbf790599bb6ccbcdf3a2ee22b849c72d867c42871aae74081c5a47f6b7866bd.json",
+      "file": "bg.json",
       "hash": "fbf790599bb6ccbcdf3a2ee22b849c72d867c42871aae74081c5a47f6b7866bd"
     },
     "BI": {
-      "file": "bi.cfdb34ef67ce960fd86a22a51e73b6220bdfbbc28b0c17f1c151eb182bdc57d5.json",
+      "file": "bi.json",
       "hash": "cfdb34ef67ce960fd86a22a51e73b6220bdfbbc28b0c17f1c151eb182bdc57d5"
     },
     "BJ": {
-      "file": "bj.8eeef56df248a481b9dcb8f2b225e0d4aa53d97dc03352f3cb2fe01a8b98706a.json",
+      "file": "bj.json",
       "hash": "8eeef56df248a481b9dcb8f2b225e0d4aa53d97dc03352f3cb2fe01a8b98706a"
     },
     "BN": {
-      "file": "bn.c4d9fe64af13c2d179d98307aa9c15785e434410fb7ea294a1ae2b07bbb251ac.json",
+      "file": "bn.json",
       "hash": "c4d9fe64af13c2d179d98307aa9c15785e434410fb7ea294a1ae2b07bbb251ac"
     },
     "BO": {
-      "file": "bo.17fa53bbfa467ba41c176c755a2f00bb739aeacfac5826d7aa8653aa16b3fb11.json",
+      "file": "bo.json",
       "hash": "17fa53bbfa467ba41c176c755a2f00bb739aeacfac5826d7aa8653aa16b3fb11"
     },
     "BR": {
-      "file": "br.6d22f5676318ea33a53732973e46c95cd95cca7d6d331a4bbba64e34a1da3052.json",
+      "file": "br.json",
       "hash": "6d22f5676318ea33a53732973e46c95cd95cca7d6d331a4bbba64e34a1da3052"
     },
     "BS": {
-      "file": "bs.ce1808ad1e096ba60b2a7be8ba0c67bc8dd477ac9638cdcef2daa363a49e0e15.json",
+      "file": "bs.json",
       "hash": "ce1808ad1e096ba60b2a7be8ba0c67bc8dd477ac9638cdcef2daa363a49e0e15"
     },
     "BW": {
-      "file": "bw.b79470eaddf6a263101667005483a2b68067fd43fcf5c4731ae576bcbe7f673b.json",
+      "file": "bw.json",
       "hash": "b79470eaddf6a263101667005483a2b68067fd43fcf5c4731ae576bcbe7f673b"
     },
     "BZ": {
-      "file": "bz.0123ffc690d9e6b402af55809a43fd01656056feb719b1b2d099a47673d90713.json",
+      "file": "bz.json",
       "hash": "0123ffc690d9e6b402af55809a43fd01656056feb719b1b2d099a47673d90713"
     },
     "CA": {
-      "file": "ca.ff5bc209d7e18ce493d5e2d30ec773f99befccf3172d26b4813f636e075eae57.json",
+      "file": "ca.json",
       "hash": "ff5bc209d7e18ce493d5e2d30ec773f99befccf3172d26b4813f636e075eae57"
     },
     "CD": {
-      "file": "cd.b994cd5262debe21f58ee07a83188445d576a4ed36c880dba1500617c1928583.json",
+      "file": "cd.json",
       "hash": "b994cd5262debe21f58ee07a83188445d576a4ed36c880dba1500617c1928583"
     },
     "CG": {
-      "file": "cg.285d16086c2b48ae445ab07f769d66b8996e1bd2e547eee7502cf17897f704eb.json",
+      "file": "cg.json",
       "hash": "285d16086c2b48ae445ab07f769d66b8996e1bd2e547eee7502cf17897f704eb"
     },
     "CH": {
-      "file": "ch.1b9c0b43552b5892f35cce9fc01c3518cd7a3820ce4d18faa228442abf489e1d.json",
+      "file": "ch.json",
       "hash": "1b9c0b43552b5892f35cce9fc01c3518cd7a3820ce4d18faa228442abf489e1d"
     },
     "CI": {
-      "file": "ci.e04a267c4a9947b556184dc0b11ce053bdd8a3f8b03f35937166feb0b611380b.json",
+      "file": "ci.json",
       "hash": "e04a267c4a9947b556184dc0b11ce053bdd8a3f8b03f35937166feb0b611380b"
     },
     "CL": {
-      "file": "cl.74683aa5bc531fbb5117a749b207b8a2d40d05fe1905d499b60495050367373c.json",
+      "file": "cl.json",
       "hash": "74683aa5bc531fbb5117a749b207b8a2d40d05fe1905d499b60495050367373c"
     },
     "CM": {
-      "file": "cm.8467c6c8b3549619c9a5b4a72d99390fe5311cff5576e5bd9163792f9c9bfa7e.json",
+      "file": "cm.json",
       "hash": "8467c6c8b3549619c9a5b4a72d99390fe5311cff5576e5bd9163792f9c9bfa7e"
     },
     "CO": {
-      "file": "co.f6d78edc57d49c1f2c70e090412a6b95a1a455c72a3ff6b198472596331ff263.json",
+      "file": "co.json",
       "hash": "f6d78edc57d49c1f2c70e090412a6b95a1a455c72a3ff6b198472596331ff263"
     },
     "CR": {
-      "file": "cr.fe5e6dd48d12d2dfecce38765b4ae5b377e9bda8da5b05e36bdcfb6b0678cc92.json",
+      "file": "cr.json",
       "hash": "fe5e6dd48d12d2dfecce38765b4ae5b377e9bda8da5b05e36bdcfb6b0678cc92"
     },
     "CV": {
-      "file": "cv.cb96c7b10f6d15570e7d208d4d627febb759269474da72d8e75ad638edf3e9ca.json",
+      "file": "cv.json",
       "hash": "cb96c7b10f6d15570e7d208d4d627febb759269474da72d8e75ad638edf3e9ca"
     },
     "CY": {
-      "file": "cy.fdb7c082d18e1fa387ade2aee6d7358a65b1e1ce82757f92ea1f0d7745aae692.json",
+      "file": "cy.json",
       "hash": "fdb7c082d18e1fa387ade2aee6d7358a65b1e1ce82757f92ea1f0d7745aae692"
     },
     "CZ": {
-      "file": "cz.0de450fb50cf33b7e24cff962a87b6ba0d608ba35a601266b6a07f14b0d743d7.json",
+      "file": "cz.json",
       "hash": "0de450fb50cf33b7e24cff962a87b6ba0d608ba35a601266b6a07f14b0d743d7"
     },
     "DE": {
-      "file": "de.34d40f888fee53f23752cf16e84df96ecbd1ca87190a372c2abddb526b0e993a.json",
+      "file": "de.json",
       "hash": "34d40f888fee53f23752cf16e84df96ecbd1ca87190a372c2abddb526b0e993a"
     },
     "DJ": {
-      "file": "dj.363a0e6e59d331e308fcbb5a01a8a9bc1153d54dac5060601b76560b4c12a53f.json",
+      "file": "dj.json",
       "hash": "363a0e6e59d331e308fcbb5a01a8a9bc1153d54dac5060601b76560b4c12a53f"
     },
     "DK": {
-      "file": "dk.c674bc9b2adf72d22a5d4390c96ce7947e47f6cebc128f053cacd524e4a5e290.json",
+      "file": "dk.json",
       "hash": "c674bc9b2adf72d22a5d4390c96ce7947e47f6cebc128f053cacd524e4a5e290"
     },
     "DO": {
-      "file": "do.8eab287285be458fca97f72a1cbe0a8bebb06e7f3cf8dd350ef9d0b21ba20b41.json",
+      "file": "do.json",
       "hash": "8eab287285be458fca97f72a1cbe0a8bebb06e7f3cf8dd350ef9d0b21ba20b41"
     },
     "EC": {
-      "file": "ec.4b249968d687e607dbb31f6a750e87049f665fa5bc972fbe747e1a8a3cb67140.json",
+      "file": "ec.json",
       "hash": "4b249968d687e607dbb31f6a750e87049f665fa5bc972fbe747e1a8a3cb67140"
     },
     "EE": {
-      "file": "ee.6eeab5c75fa09f68d4548cb10a4e346e3a982657722d2db3d346860cbd847f52.json",
+      "file": "ee.json",
       "hash": "6eeab5c75fa09f68d4548cb10a4e346e3a982657722d2db3d346860cbd847f52"
     },
     "ES": {
-      "file": "es.c0f4fa6bafbbf6b8020cdc2c1898cbdb4f26e820623a2c76cf8dfd792dfd7eb3.json",
+      "file": "es.json",
       "hash": "c0f4fa6bafbbf6b8020cdc2c1898cbdb4f26e820623a2c76cf8dfd792dfd7eb3"
     },
     "ET": {
-      "file": "et.ea39d5939200760964875ac389259f68a5f18dcc2c70ad4bfffe6f7d6c2f0fe8.json",
+      "file": "et.json",
       "hash": "ea39d5939200760964875ac389259f68a5f18dcc2c70ad4bfffe6f7d6c2f0fe8"
     },
     "FI": {
-      "file": "fi.701233a78fb4fa0589a2e0c9b6db09e5eccab6adb935f5b858382ecc06fbb89d.json",
+      "file": "fi.json",
       "hash": "701233a78fb4fa0589a2e0c9b6db09e5eccab6adb935f5b858382ecc06fbb89d"
     },
     "FJ": {
-      "file": "fj.f1f71e2b21f80a7f1ea25aeea0501493c2f8aaaa53089fd7d9128047bdb2cc5c.json",
+      "file": "fj.json",
       "hash": "f1f71e2b21f80a7f1ea25aeea0501493c2f8aaaa53089fd7d9128047bdb2cc5c"
     },
     "FM": {
-      "file": "fm.0b63dfc079697d2291c0e1f38e9b6696fb697ffcef61d59f56f24e9f1dd35e3e.json",
+      "file": "fm.json",
       "hash": "0b63dfc079697d2291c0e1f38e9b6696fb697ffcef61d59f56f24e9f1dd35e3e"
     },
     "FR": {
-      "file": "fr.ff0f3e857739a140edee3109f4f5a86bfbb56b5e6a6ac46d96bd1617a5f60956.json",
+      "file": "fr.json",
       "hash": "ff0f3e857739a140edee3109f4f5a86bfbb56b5e6a6ac46d96bd1617a5f60956"
     },
     "GA": {
-      "file": "ga.af8824275188ac4c4534bb1ab934ad9afeb35379bad6da6d4558b60c224849fe.json",
+      "file": "ga.json",
       "hash": "af8824275188ac4c4534bb1ab934ad9afeb35379bad6da6d4558b60c224849fe"
     },
     "GB": {
-      "file": "gb.5abb742292976a4c2780065d8a4bc10ce98c3e4fec28defe70d81a7d99cbe282.json",
+      "file": "gb.json",
       "hash": "5abb742292976a4c2780065d8a4bc10ce98c3e4fec28defe70d81a7d99cbe282"
     },
     "GD": {
-      "file": "gd.4699f070d77e3cef103f82e375427796added787c0523f1c83bd441356e6c1dc.json",
+      "file": "gd.json",
       "hash": "4699f070d77e3cef103f82e375427796added787c0523f1c83bd441356e6c1dc"
     },
     "GE": {
-      "file": "ge.3d404c865ff6106ed438c6612e1970b9e38396c3d76513156a2adc9d01ed4b18.json",
+      "file": "ge.json",
       "hash": "3d404c865ff6106ed438c6612e1970b9e38396c3d76513156a2adc9d01ed4b18"
     },
     "GH": {
-      "file": "gh.b76143835cd42c5579389a13c00e5b4ab6185718f3e880076e4b4216f807030f.json",
+      "file": "gh.json",
       "hash": "b76143835cd42c5579389a13c00e5b4ab6185718f3e880076e4b4216f807030f"
     },
     "GM": {
-      "file": "gm.da0de609bf94a0190f5d95da2de97a73aae317a6669b5494a22e059b81be806d.json",
+      "file": "gm.json",
       "hash": "da0de609bf94a0190f5d95da2de97a73aae317a6669b5494a22e059b81be806d"
     },
     "GN": {
-      "file": "gn.6bcaafd023fdcd4a7bba1451c0a4215d5b5df7652f63eb77c4b3b896220fef60.json",
+      "file": "gn.json",
       "hash": "6bcaafd023fdcd4a7bba1451c0a4215d5b5df7652f63eb77c4b3b896220fef60"
     },
     "GQ": {
-      "file": "gq.1ddade244dead4cc7462dc9ece1aa729ada8b4dc0dbe444a348c56256029bd63.json",
+      "file": "gq.json",
       "hash": "1ddade244dead4cc7462dc9ece1aa729ada8b4dc0dbe444a348c56256029bd63"
     },
     "GR": {
-      "file": "gr.a323a040e470da13a6d2b5527864d558d512aa593f9f1f741d90ca3d17cd128a.json",
+      "file": "gr.json",
       "hash": "a323a040e470da13a6d2b5527864d558d512aa593f9f1f741d90ca3d17cd128a"
     },
     "GT": {
-      "file": "gt.918c715c87a79517ab7a301ad16ffdd30fe584a8ad5a77166caf39ef3211d987.json",
+      "file": "gt.json",
       "hash": "918c715c87a79517ab7a301ad16ffdd30fe584a8ad5a77166caf39ef3211d987"
     },
     "GW": {
-      "file": "gw.11c751a029dc2871d1759cef9e8626463dc078ef8c28526400677d83092847c3.json",
+      "file": "gw.json",
       "hash": "11c751a029dc2871d1759cef9e8626463dc078ef8c28526400677d83092847c3"
     },
     "GY": {
-      "file": "gy.421afb0b1f714efed19a1de47be92ea1948ac06bf62cd90ea291165638eeae6c.json",
+      "file": "gy.json",
       "hash": "421afb0b1f714efed19a1de47be92ea1948ac06bf62cd90ea291165638eeae6c"
     },
     "HK": {
-      "file": "hk.58c397cd2d8ba2f1be77c9e8e36525f29184296ad3bb6ba91792bdc0f96a8ca9.json",
+      "file": "hk.json",
       "hash": "58c397cd2d8ba2f1be77c9e8e36525f29184296ad3bb6ba91792bdc0f96a8ca9"
     },
     "HN": {
-      "file": "hn.f6fa67042583dc5e7a5a8c3d5254ab301476d6ca87bfc2f2db134452bb3d0d73.json",
+      "file": "hn.json",
       "hash": "f6fa67042583dc5e7a5a8c3d5254ab301476d6ca87bfc2f2db134452bb3d0d73"
     },
     "HR": {
-      "file": "hr.ca2cbf663c335aea44966e35f7e595ee608db0b1b57fd7e9556a09dceeb7e3d5.json",
+      "file": "hr.json",
       "hash": "ca2cbf663c335aea44966e35f7e595ee608db0b1b57fd7e9556a09dceeb7e3d5"
     },
     "HT": {
-      "file": "ht.deddeb4d128bdbf897625a6a07c9975937509177d810756da09837e647d35a19.json",
+      "file": "ht.json",
       "hash": "deddeb4d128bdbf897625a6a07c9975937509177d810756da09837e647d35a19"
     },
     "HU": {
-      "file": "hu.7acdcf0745feeea729a54c761b486296215f0f0c6e9328f09bcd4d0cb6ee7d8a.json",
+      "file": "hu.json",
       "hash": "7acdcf0745feeea729a54c761b486296215f0f0c6e9328f09bcd4d0cb6ee7d8a"
     },
     "ID": {
-      "file": "id.8f3c24de687c9ba12c36665c8c0b20d5c459766f3b250c3e136600c9eabad13a.json",
+      "file": "id.json",
       "hash": "8f3c24de687c9ba12c36665c8c0b20d5c459766f3b250c3e136600c9eabad13a"
     },
     "IE": {
-      "file": "ie.a0925250d44db338eb562494c0356f31cc1a1804c6e8e62e44d8e311b3e33eb5.json",
+      "file": "ie.json",
       "hash": "a0925250d44db338eb562494c0356f31cc1a1804c6e8e62e44d8e311b3e33eb5"
     },
     "IL": {
-      "file": "il.e9f4ef590bb1a4fd1e59cac635bf12d7fbbb183900c12574c9e7bf5415081ea7.json",
+      "file": "il.json",
       "hash": "e9f4ef590bb1a4fd1e59cac635bf12d7fbbb183900c12574c9e7bf5415081ea7"
     },
     "IN": {
-      "file": "in.be54002d558884441c757baa88afae35287094bdab084739ab9ffce63dede07b.json",
+      "file": "in.json",
       "hash": "be54002d558884441c757baa88afae35287094bdab084739ab9ffce63dede07b"
     },
     "IS": {
-      "file": "is.0a1c217cc7ae5cc5be1fe1e89e9716ddc6d2c6f73c2a3fd786f474e349f989f5.json",
+      "file": "is.json",
       "hash": "0a1c217cc7ae5cc5be1fe1e89e9716ddc6d2c6f73c2a3fd786f474e349f989f5"
     },
     "IT": {
-      "file": "it.bbc9289e1603aed85b29943c427a2586f57a290ade2aa223e678376863f89db9.json",
+      "file": "it.json",
       "hash": "bbc9289e1603aed85b29943c427a2586f57a290ade2aa223e678376863f89db9"
     },
     "JM": {
-      "file": "jm.31f6e72c2ef4680c72a314ca8ce96f940147984fb2747bd12ce8bd4df08c22f9.json",
+      "file": "jm.json",
       "hash": "31f6e72c2ef4680c72a314ca8ce96f940147984fb2747bd12ce8bd4df08c22f9"
     },
     "JP": {
-      "file": "jp.3390d61a087f59327f6f1026f0e3b067cea5db32890587cd46f8ebf2eb1963ce.json",
+      "file": "jp.json",
       "hash": "3390d61a087f59327f6f1026f0e3b067cea5db32890587cd46f8ebf2eb1963ce"
     },
     "KE": {
-      "file": "ke.5ff41d8f6e48ae20ef09059900d96e9e35b5bd69661a5b9d124c4ff5e232ac8a.json",
+      "file": "ke.json",
       "hash": "5ff41d8f6e48ae20ef09059900d96e9e35b5bd69661a5b9d124c4ff5e232ac8a"
     },
     "KG": {
-      "file": "kg.64f1b1878e5586d3ea5c052b86cbe29f43f1edfb7c1c045a991a90a5ef4976d1.json",
+      "file": "kg.json",
       "hash": "64f1b1878e5586d3ea5c052b86cbe29f43f1edfb7c1c045a991a90a5ef4976d1"
     },
     "KH": {
-      "file": "kh.5002efdeb754e5c6086d351b806e08715a52ced693d258326a7196db581611f2.json",
+      "file": "kh.json",
       "hash": "5002efdeb754e5c6086d351b806e08715a52ced693d258326a7196db581611f2"
     },
     "KI": {
-      "file": "ki.a199472aae73b36fee14683a860172235f00832506395a455c0d6d8df932479e.json",
+      "file": "ki.json",
       "hash": "a199472aae73b36fee14683a860172235f00832506395a455c0d6d8df932479e"
     },
     "KR": {
-      "file": "kr.30c5604385a1ff497729dd98b8ec8c3be766d2015796826a037cd2bfe47d17d6.json",
+      "file": "kr.json",
       "hash": "30c5604385a1ff497729dd98b8ec8c3be766d2015796826a037cd2bfe47d17d6"
     },
     "KZ": {
-      "file": "kz.e9d75fd572b3408911ee1bd258ce334f464b934e906d48631c061a0bb7a9cc7e.json",
+      "file": "kz.json",
       "hash": "e9d75fd572b3408911ee1bd258ce334f464b934e906d48631c061a0bb7a9cc7e"
     },
     "LA": {
-      "file": "la.b094b6fc52f8d03c9ee7f13eac70800481895f79a8abd4f758359f0b7a2a5790.json",
+      "file": "la.json",
       "hash": "b094b6fc52f8d03c9ee7f13eac70800481895f79a8abd4f758359f0b7a2a5790"
     },
     "LC": {
-      "file": "lc.9467ec6707f6f4a5fe24786f8b94cee301873b9357a35cf91f5cb7b58b63ff58.json",
+      "file": "lc.json",
       "hash": "9467ec6707f6f4a5fe24786f8b94cee301873b9357a35cf91f5cb7b58b63ff58"
     },
     "LK": {
-      "file": "lk.0be8f47caa66af9aed0ffaa33a9c4a868b8f7f753b056532aa92123211d8414e.json",
+      "file": "lk.json",
       "hash": "0be8f47caa66af9aed0ffaa33a9c4a868b8f7f753b056532aa92123211d8414e"
     },
     "LR": {
-      "file": "lr.091f07faf6d75ca95be4c1dd1608e061b0c4c204f72b7546dbb31808eaa315dd.json",
+      "file": "lr.json",
       "hash": "091f07faf6d75ca95be4c1dd1608e061b0c4c204f72b7546dbb31808eaa315dd"
     },
     "LS": {
-      "file": "ls.6743a443aa1123f863bd5233f93b796dbb4a5760dcd0545a551aaa029868cfd5.json",
+      "file": "ls.json",
       "hash": "6743a443aa1123f863bd5233f93b796dbb4a5760dcd0545a551aaa029868cfd5"
     },
     "LT": {
-      "file": "lt.9a47abb4f3de32be0512d8562fe8fb03fa403af7f4b239d0256b070d13e0d07e.json",
+      "file": "lt.json",
       "hash": "9a47abb4f3de32be0512d8562fe8fb03fa403af7f4b239d0256b070d13e0d07e"
     },
     "LU": {
-      "file": "lu.f5edc39ee219008935501faf9c3b9799f7a443ef335180ae1f23057699225284.json",
+      "file": "lu.json",
       "hash": "f5edc39ee219008935501faf9c3b9799f7a443ef335180ae1f23057699225284"
     },
     "LV": {
-      "file": "lv.ac17e35c2e4767c01acf1263fb194f5ff117e321657eeeac955b1b0491de12c5.json",
+      "file": "lv.json",
       "hash": "ac17e35c2e4767c01acf1263fb194f5ff117e321657eeeac955b1b0491de12c5"
     },
     "MD": {
-      "file": "md.62bc9598211bcaad30276e1674f39ac7b01c23527a3d2a2a2efe8179942f4560.json",
+      "file": "md.json",
       "hash": "62bc9598211bcaad30276e1674f39ac7b01c23527a3d2a2a2efe8179942f4560"
     },
     "ME": {
-      "file": "me.084275a66e472cbdd3932f2f8ea0b9c58006b0319aa513538586be252d73e77f.json",
+      "file": "me.json",
       "hash": "084275a66e472cbdd3932f2f8ea0b9c58006b0319aa513538586be252d73e77f"
     },
     "MG": {
-      "file": "mg.e8bfd3b4c6dfa69d2f58aa093a7a7de81b75afec4c26337de74cc54fdd05c6a3.json",
+      "file": "mg.json",
       "hash": "e8bfd3b4c6dfa69d2f58aa093a7a7de81b75afec4c26337de74cc54fdd05c6a3"
     },
     "MK": {
-      "file": "mk.08255ec2b3c52c3f45e5898ef43823bf846a60efb382293308ed3cfbd3f9f34b.json",
+      "file": "mk.json",
       "hash": "08255ec2b3c52c3f45e5898ef43823bf846a60efb382293308ed3cfbd3f9f34b"
     },
     "ML": {
-      "file": "ml.369ac8e6b29dcf511d20a4d6de6e288cb5e0b0c7892c0dbc3b7df78cb9d93d4a.json",
+      "file": "ml.json",
       "hash": "369ac8e6b29dcf511d20a4d6de6e288cb5e0b0c7892c0dbc3b7df78cb9d93d4a"
     },
     "MN": {
-      "file": "mn.136a8f7019da6383d5722299bde883e681be0da2a08a7096340a2fec9b9092c8.json",
+      "file": "mn.json",
       "hash": "136a8f7019da6383d5722299bde883e681be0da2a08a7096340a2fec9b9092c8"
     },
     "MO": {
-      "file": "mo.6f2ce530a4bd78047ad598364dfe841366d458d10e86751c337840adfbd82382.json",
+      "file": "mo.json",
       "hash": "6f2ce530a4bd78047ad598364dfe841366d458d10e86751c337840adfbd82382"
     },
     "MT": {
-      "file": "mt.5da2834e8121eeac186e7fadb8f54203d4d5239066c8684576e5bc4cdd0fbdc6.json",
+      "file": "mt.json",
       "hash": "5da2834e8121eeac186e7fadb8f54203d4d5239066c8684576e5bc4cdd0fbdc6"
     },
     "MU": {
-      "file": "mu.c6b6dd43b75c16d3d37a93d1cba5a0cac9e202495aad87112b6e03d7af837df3.json",
+      "file": "mu.json",
       "hash": "c6b6dd43b75c16d3d37a93d1cba5a0cac9e202495aad87112b6e03d7af837df3"
     },
     "MW": {
-      "file": "mw.10c5d24bf402148690d54b7ae2b32424ac7a5429ad5e35d7f782625af55e98ff.json",
+      "file": "mw.json",
       "hash": "10c5d24bf402148690d54b7ae2b32424ac7a5429ad5e35d7f782625af55e98ff"
     },
     "MX": {
-      "file": "mx.eb95e219dd630eed9d4744c7dbb45319eaa492c86ca59d5d9a02aea07b23507a.json",
+      "file": "mx.json",
       "hash": "eb95e219dd630eed9d4744c7dbb45319eaa492c86ca59d5d9a02aea07b23507a"
     },
     "MY": {
-      "file": "my.60d5bc628d632536c7fb621c3554542a170a302c06ea8af3826889cad841297a.json",
+      "file": "my.json",
       "hash": "60d5bc628d632536c7fb621c3554542a170a302c06ea8af3826889cad841297a"
     },
     "MZ": {
-      "file": "mz.ad6508afa1ef5d7d0e4d696a6e256bd4f20d04d4f3c970e538c0c9a549906185.json",
+      "file": "mz.json",
       "hash": "ad6508afa1ef5d7d0e4d696a6e256bd4f20d04d4f3c970e538c0c9a549906185"
     },
     "NA": {
-      "file": "na.d3eca64635427b572c1148c24dfe1294e84e0593d4be1dafdecad1540a8984eb.json",
+      "file": "na.json",
       "hash": "d3eca64635427b572c1148c24dfe1294e84e0593d4be1dafdecad1540a8984eb"
     },
     "NE": {
-      "file": "ne.39ef803bc5ca438879ad18e473cf0afca2f0801cfb8428c9873e56cd712f8c7b.json",
+      "file": "ne.json",
       "hash": "39ef803bc5ca438879ad18e473cf0afca2f0801cfb8428c9873e56cd712f8c7b"
     },
     "NG": {
-      "file": "ng.7fcff655151cdd96d4a3bec8a5afa174c2d4881065f9ba3105cae2c850998623.json",
+      "file": "ng.json",
       "hash": "7fcff655151cdd96d4a3bec8a5afa174c2d4881065f9ba3105cae2c850998623"
     },
     "NI": {
-      "file": "ni.43b216f747c51fed4f512e95a12f333a9972898f548f682a71bf387bf432f2fb.json",
+      "file": "ni.json",
       "hash": "43b216f747c51fed4f512e95a12f333a9972898f548f682a71bf387bf432f2fb"
     },
     "NL": {
-      "file": "nl.c03265db0d0ae0f004c71bf1cc038c28bca371f98db4ce0da08e30ae58c23b73.json",
+      "file": "nl.json",
       "hash": "c03265db0d0ae0f004c71bf1cc038c28bca371f98db4ce0da08e30ae58c23b73"
     },
     "NO": {
-      "file": "no.ee18d8c287cd8003ff2364de9a7465f24d7def438ef0ea22b0182a81eec4b509.json",
+      "file": "no.json",
       "hash": "ee18d8c287cd8003ff2364de9a7465f24d7def438ef0ea22b0182a81eec4b509"
     },
     "NP": {
-      "file": "np.d2c87fc6e67a00236f184762bce092d5c0a90c0da22c0cf87da3e095d9cc10c7.json",
+      "file": "np.json",
       "hash": "d2c87fc6e67a00236f184762bce092d5c0a90c0da22c0cf87da3e095d9cc10c7"
     },
     "NZ": {
-      "file": "nz.fd74009d76ff67d85c5dbdf15304bc5a8ac375fab07777244fcb2af448b06dd2.json",
+      "file": "nz.json",
       "hash": "fd74009d76ff67d85c5dbdf15304bc5a8ac375fab07777244fcb2af448b06dd2"
     },
     "PA": {
-      "file": "pa.7cc5bef43f9221400748c0c2a95ee0c80e478356daf8b086148e91cf892952bc.json",
+      "file": "pa.json",
       "hash": "7cc5bef43f9221400748c0c2a95ee0c80e478356daf8b086148e91cf892952bc"
     },
     "PE": {
-      "file": "pe.306aa4578492ae7ff7db99be87fb4dc3af91cd5da6e013d8c33b2ce3cb8fa074.json",
+      "file": "pe.json",
       "hash": "306aa4578492ae7ff7db99be87fb4dc3af91cd5da6e013d8c33b2ce3cb8fa074"
     },
     "PG": {
-      "file": "pg.ae2b1e8862d4c1040fba08e3f9bb93c7c42f6202d89be1d5fcd8084f29fd463b.json",
+      "file": "pg.json",
       "hash": "ae2b1e8862d4c1040fba08e3f9bb93c7c42f6202d89be1d5fcd8084f29fd463b"
     },
     "PH": {
-      "file": "ph.ce1ff4d0c898f3793afdd00b346b15677c5deadea32e3caba75cceef9abbdfcd.json",
+      "file": "ph.json",
       "hash": "ce1ff4d0c898f3793afdd00b346b15677c5deadea32e3caba75cceef9abbdfcd"
     },
     "PL": {
-      "file": "pl.610a31d9e8cbbb6c396e431729ae0df5a79cf1c19583adc032536f70581c05ad.json",
+      "file": "pl.json",
       "hash": "610a31d9e8cbbb6c396e431729ae0df5a79cf1c19583adc032536f70581c05ad"
     },
     "PT": {
-      "file": "pt.77e4f6b5352ff9fba9fc95d4b3f6db8c076d06a48f4e26adbcdd747edcf3cbae.json",
+      "file": "pt.json",
       "hash": "77e4f6b5352ff9fba9fc95d4b3f6db8c076d06a48f4e26adbcdd747edcf3cbae"
     },
     "PY": {
-      "file": "py.3cdf666d88da8b62f66d0913d126819b2b0cb41edb7459947bf7a106c238c2dc.json",
+      "file": "py.json",
       "hash": "3cdf666d88da8b62f66d0913d126819b2b0cb41edb7459947bf7a106c238c2dc"
     },
     "RO": {
-      "file": "ro.a4fcf283d24c819893c1903964a6ce897bcd63ee07ff9328bb26fc1b049168f6.json",
+      "file": "ro.json",
       "hash": "a4fcf283d24c819893c1903964a6ce897bcd63ee07ff9328bb26fc1b049168f6"
     },
     "RS": {
-      "file": "rs.fb8a11dff427c816a039ccfc6b3b2aade5c951528466b3f0e2c5ee7f99483cd8.json",
+      "file": "rs.json",
       "hash": "fb8a11dff427c816a039ccfc6b3b2aade5c951528466b3f0e2c5ee7f99483cd8"
     },
     "RU": {
-      "file": "ru.dc997284a02f3854e7009729936f0e7ed581800e1ff76429e8b39f99a0c6b91f.json",
+      "file": "ru.json",
       "hash": "dc997284a02f3854e7009729936f0e7ed581800e1ff76429e8b39f99a0c6b91f"
     },
     "RW": {
-      "file": "rw.4b3985dfbc5d026f53414da6df129e251660a029e4ba2a49f5a59c7f81d4de14.json",
+      "file": "rw.json",
       "hash": "4b3985dfbc5d026f53414da6df129e251660a029e4ba2a49f5a59c7f81d4de14"
     },
     "SB": {
-      "file": "sb.c1e4045f398fc5f99a69fb80bd55019d4d04434801e39cecb3669ef9add252e9.json",
+      "file": "sb.json",
       "hash": "c1e4045f398fc5f99a69fb80bd55019d4d04434801e39cecb3669ef9add252e9"
     },
     "SC": {
-      "file": "sc.59fe4b13a8a12c1c398acd9a58948c0df6493df8d3eac2357d7d9341a847be61.json",
+      "file": "sc.json",
       "hash": "59fe4b13a8a12c1c398acd9a58948c0df6493df8d3eac2357d7d9341a847be61"
     },
     "SE": {
-      "file": "se.86173415a0257833a2eb559577cf42302a1f39f6e90f383b339c42d60bf5a7f3.json",
+      "file": "se.json",
       "hash": "86173415a0257833a2eb559577cf42302a1f39f6e90f383b339c42d60bf5a7f3"
     },
     "SG": {
-      "file": "sg.c9f67b94da85a90a198a4df26c75553f6c8ba8a0b4b66d7164aa9cb6c8ced1f6.json",
+      "file": "sg.json",
       "hash": "c9f67b94da85a90a198a4df26c75553f6c8ba8a0b4b66d7164aa9cb6c8ced1f6"
     },
     "SI": {
-      "file": "si.d84475baa1cd260321e9e62ba91d9b7eb9397d271b580dcfe6178f929d1781cf.json",
+      "file": "si.json",
       "hash": "d84475baa1cd260321e9e62ba91d9b7eb9397d271b580dcfe6178f929d1781cf"
     },
     "SK": {
-      "file": "sk.4f41dffa35e86f6a8bf7e9c362a606b9d8474895f62db546c1cffa056f2e325d.json",
+      "file": "sk.json",
       "hash": "4f41dffa35e86f6a8bf7e9c362a606b9d8474895f62db546c1cffa056f2e325d"
     },
     "SL": {
-      "file": "sl.7501384cfb0ff3c1759622272f0c0c44027b580454e6696758ef605b5c38a52f.json",
+      "file": "sl.json",
       "hash": "7501384cfb0ff3c1759622272f0c0c44027b580454e6696758ef605b5c38a52f"
     },
     "SN": {
-      "file": "sn.24381055ac92b2c2e19d55fc747afe60f2922c9ccd7aa0aed493328f4ebc92fe.json",
+      "file": "sn.json",
       "hash": "24381055ac92b2c2e19d55fc747afe60f2922c9ccd7aa0aed493328f4ebc92fe"
     },
     "SR": {
-      "file": "sr.b361dc748fbe17938b607c09524d8d75f2bf10b42d45e15a5d7786081edb133a.json",
+      "file": "sr.json",
       "hash": "b361dc748fbe17938b607c09524d8d75f2bf10b42d45e15a5d7786081edb133a"
     },
     "ST": {
-      "file": "st.bf7819009ab74adcf4faa8db515c42188cd4771cecf1457aca963e7cac625ca5.json",
+      "file": "st.json",
       "hash": "bf7819009ab74adcf4faa8db515c42188cd4771cecf1457aca963e7cac625ca5"
     },
     "SV": {
-      "file": "sv.7d4c41fbf910a48a2622d9b43d6b6b4334ba855abe4d2197dfdf5be3a1750f8b.json",
+      "file": "sv.json",
       "hash": "7d4c41fbf910a48a2622d9b43d6b6b4334ba855abe4d2197dfdf5be3a1750f8b"
     },
     "SZ": {
-      "file": "sz.957c559255ba21585b95e5a147581464f3f8a215b9d7b3b3fb4974ee3481c8db.json",
+      "file": "sz.json",
       "hash": "957c559255ba21585b95e5a147581464f3f8a215b9d7b3b3fb4974ee3481c8db"
     },
     "TD": {
-      "file": "td.7bbf9e8bc93856f1db25fa14be13a1896d18b605ee6606e9c354791d231a0e0e.json",
+      "file": "td.json",
       "hash": "7bbf9e8bc93856f1db25fa14be13a1896d18b605ee6606e9c354791d231a0e0e"
     },
     "TG": {
-      "file": "tg.3986210a2e92f84c69824a7ed8f4cb08e694fd5ac8f2fc2bc58fa6209d30acc9.json",
+      "file": "tg.json",
       "hash": "3986210a2e92f84c69824a7ed8f4cb08e694fd5ac8f2fc2bc58fa6209d30acc9"
     },
     "TH": {
-      "file": "th.2a0999f0b510609e3f93b8b9dc75d918044c824744f28e03316b30a766025737.json",
+      "file": "th.json",
       "hash": "2a0999f0b510609e3f93b8b9dc75d918044c824744f28e03316b30a766025737"
     },
     "TJ": {
-      "file": "tj.ec72795d8dd4f2d2165605a14463d0a2dffd4c8e7a9fa3aa3a5083e54fdb08e6.json",
+      "file": "tj.json",
       "hash": "ec72795d8dd4f2d2165605a14463d0a2dffd4c8e7a9fa3aa3a5083e54fdb08e6"
     },
     "TL": {
-      "file": "tl.530be292e30227bb5d3fe793192d82026187751c312dc29a7e6bd41ea714bce1.json",
+      "file": "tl.json",
       "hash": "530be292e30227bb5d3fe793192d82026187751c312dc29a7e6bd41ea714bce1"
     },
     "TR": {
-      "file": "tr.afa26ddb8b4c9b95786af1c3feeca307acb55d6ef72bb6abb278b8685cb4789a.json",
+      "file": "tr.json",
       "hash": "afa26ddb8b4c9b95786af1c3feeca307acb55d6ef72bb6abb278b8685cb4789a"
     },
     "TT": {
-      "file": "tt.583521e4406960af26e6063193776046a56dfcfe80d43c8315152c24e41d21b2.json",
+      "file": "tt.json",
       "hash": "583521e4406960af26e6063193776046a56dfcfe80d43c8315152c24e41d21b2"
     },
     "TW": {
-      "file": "tw.6470ea6e873384f4017b4cfdf91c0bc85959282670a01ada619883ddc26577ee.json",
+      "file": "tw.json",
       "hash": "6470ea6e873384f4017b4cfdf91c0bc85959282670a01ada619883ddc26577ee"
     },
     "TZ": {
-      "file": "tz.357cf228d5710749e20805ca53211671268f6c76aa60b7f21bb80d57f605ccaa.json",
+      "file": "tz.json",
       "hash": "357cf228d5710749e20805ca53211671268f6c76aa60b7f21bb80d57f605ccaa"
     },
     "UA": {
-      "file": "ua.4ba344f6ebefb2b0ed7892998166feb107957ef92b0c2e9c17249414daf017bb.json",
+      "file": "ua.json",
       "hash": "4ba344f6ebefb2b0ed7892998166feb107957ef92b0c2e9c17249414daf017bb"
     },
     "UG": {
-      "file": "ug.fc631f786396134dc970fc640ee03642faf60c482d128b09cd72f5772fd3b204.json",
+      "file": "ug.json",
       "hash": "fc631f786396134dc970fc640ee03642faf60c482d128b09cd72f5772fd3b204"
     },
     "US": {
-      "file": "us.e56ce44813e27bb9c7d027be5d8daf74f969c9e2e64439c1634a697bc4563cad.json",
+      "file": "us.json",
       "hash": "e56ce44813e27bb9c7d027be5d8daf74f969c9e2e64439c1634a697bc4563cad"
     },
     "UY": {
-      "file": "uy.f2e59978c5887789fb1f13f73a2a09df9fd2550d251d12bb11f1a5319fa57eff.json",
+      "file": "uy.json",
       "hash": "f2e59978c5887789fb1f13f73a2a09df9fd2550d251d12bb11f1a5319fa57eff"
     },
     "UZ": {
-      "file": "uz.398e8245553fddaf1ed54515e9674aeea4a22545fd2a87e428254983685b0376.json",
+      "file": "uz.json",
       "hash": "398e8245553fddaf1ed54515e9674aeea4a22545fd2a87e428254983685b0376"
     },
     "VE": {
-      "file": "ve.df3a9a952d8440e6423a8e36f9c6877ebd1d568aee7e634d2f9f5962a79e95df.json",
+      "file": "ve.json",
       "hash": "df3a9a952d8440e6423a8e36f9c6877ebd1d568aee7e634d2f9f5962a79e95df"
     },
     "VN": {
-      "file": "vn.0871f5eb97c9c2ee34e76ec854793446984ca530f34d02d828341e5616e87fc4.json",
+      "file": "vn.json",
       "hash": "0871f5eb97c9c2ee34e76ec854793446984ca530f34d02d828341e5616e87fc4"
     },
     "VU": {
-      "file": "vu.47f21ed00e031696254391eb919d87d787bbe49947dc75e07f39f4e894ee1542.json",
+      "file": "vu.json",
       "hash": "47f21ed00e031696254391eb919d87d787bbe49947dc75e07f39f4e894ee1542"
     },
     "XK": {
-      "file": "xk.b48fbeb328f58ec59eee71909ff8723b35092f6b0d44988ffb67bf2b2c9c15af.json",
+      "file": "xk.json",
       "hash": "b48fbeb328f58ec59eee71909ff8723b35092f6b0d44988ffb67bf2b2c9c15af"
     },
     "ZA": {
-      "file": "za.ad66223e5faca63c0ff1a86d0815696df5191d577993b64d9920f97bcc496902.json",
+      "file": "za.json",
       "hash": "ad66223e5faca63c0ff1a86d0815696df5191d577993b64d9920f97bcc496902"
     },
     "ZM": {
-      "file": "zm.5e3916a2796f5232b150a2d3d47b00ea68596d704890d2e5970a07195a948048.json",
+      "file": "zm.json",
       "hash": "5e3916a2796f5232b150a2d3d47b00ea68596d704890d2e5970a07195a948048"
     },
     "ZW": {
-      "file": "zw.2d96c75f62b85360bf812cf726a70247b24faee51cf8a50d7d389d1b3b40d1df.json",
+      "file": "zw.json",
       "hash": "2d96c75f62b85360bf812cf726a70247b24faee51cf8a50d7d389d1b3b40d1df"
     }
   },
@@ -611,9 +611,9 @@
   "unity": {
     "schemaVersion": 1,
     "client": {
-      "file": "client.a54625d78d2a15e2271921985644bd11923160593cb6058643bbb434c2ca4c1d.json",
+      "file": "client.json",
       "hash": "a54625d78d2a15e2271921985644bd11923160593cb6058643bbb434c2ca4c1d"
     },
-    "version": "31210880e500c005b912a5e8da9f793a136639721a8d2555cf6f153c52f11b66"
+    "version": "6655f4a843c0d265a57d3d2d0f4e3dd9a3f31c871124c6a53bfe38776f30c802"
   }
 }

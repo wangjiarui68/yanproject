@@ -1,4 +1,4 @@
-google.com, pub-5601422542987743, DIRECT, f08c47fec0942fa0
+google.com, pub-5904363838447442, DIRECT, f08c47fec0942fa0
 
 facebook.com, 1454153616284637, DIRECT, c3e20eee3f780d68
 
@@ -19,6 +19,7 @@ loopme.com, 11424, RESELLER, 6c8d5f95897a5a3b
 media.net, 8CU12AQ1Y, RESELLER
 media.net, 8CUD06Z68, RESELLER
 openx.com, 540785403, RESELLER, 6a698e2ec38604c6
+
 openx.com, 559798512, RESELLER, 6a698e2ec38604c6
 opera.com, pub6538436382208, RESELLER, 55a0c5fd61378de3
 pubmatic.com, 158154, RESELLER, 5d62403b186f2ace
@@ -133,6 +134,7 @@ indexexchange.com, 214183, RESELLER, 50b1c356f2c5c8fc
 lunamedia.io, 2fdb16a1-5025-4c41-9b17-e01e47ebc8b4, RESELLER, 524ecb396915caaf
 media.net, 8cuh46n56, RESELLER
 media.net, 8cuuq286l, RESELLER
+media.net, 8CUSC3UJ7, RESELLER
 media.net, 8cu675n41, RESELLER
 ogury.com, 065d4ff5-a269-44be-9634-9d4d7af2dfc3, RESELLER
 playwire.com, 1018531, RESELLER
@@ -555,40 +557,6 @@ zmaticoo.com,5135063,RESELLER
 zmaticoo.com,5135224,RESELLER
 zmaticoo.com,5135302,RESELLER
 zoomd.com,88478941,RESELLER
-vungle.com,68654375aff9d80011419e80,DIRECT,c107d686becd2d77
-admanmedia.com,20,RESELLER
-adwmg.com,101303,RESELLER,c9688a22012618e7
-betweendigital.com,47049,RESELLER
-bid-matrix.com,c234315848988d17,RESELLER
-bidmachine.io,147,RESELLER
-bidmachine.io,148,RESELLER
-bidmachine.io,189,RESELLER
-bidmachine.io,190,RESELLER
-bidmachine.io,192,RESELLER
-bigo.sg,8m4jk4b9d6,RESELLER
-display.io,222480,RESELLER
-display.io,2499,RESELLER
-hyperaudience.com,312,RESELLER
-hyperaudience.com,313,RESELLER
-ignitemediatech.com,pub_11114,RESELLER
-indexexchange.com,219174,RESELLER,50b1c356f2c5c8fc
-kargo.com,9101,RESELLER,98ccdd9948ed08da
-lijit.com,567230,RESELLER,fafdf38b16bf6b2b
-mindtos.com,maca7398339177c05,RESELLER
-pubeasy.io,110579,RESELLER
-pubmatic.com,168216,RESELLER,5d62403b186f2ace
-pubmatic.com,168244,RESELLER,5d62403b186f2ace
-pubmatic.com,168363,RESELLER,5d62403b186f2ace
-pubmatic.com,168367,RESELLER,5d62403b186f2ace
-risecodes.com,66fab6981efdb80001a3dadc,RESELLER,79929e88b2ba73bc
-rtbmax.com,68b8fb28c310663c8d21c90e,RESELLER
-silvermob.com,576,RESELLER
-taurusx.com,70090,RESELLER
-tradplusad.com,cc37417e7e7108a3,RESELLER
-triplelift.com,14826,RESELLER,6c33edb13117fd86
-ushareit.com,LCc6b8b1c8aca38e6f,RESELLER
-verve.com,1007302,RESELLER,0c8f5958fc2d6282
-visiblemeasures.com,1090,RESELLER
 
 #bigo
 triplelift.com, 14819, RESELLER, 6c33edb13117fd86

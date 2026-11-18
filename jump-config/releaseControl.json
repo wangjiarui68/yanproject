@@ -1,4 +1,22 @@
 {
-  "maxAppVersion": "1.2.1",
-  "gateway": "true"
+  "maxAppVersion": "1.2.0",
+  "gateway": "true",
+  "products": {
+    "crazy-road": {
+      "minVersionCode": 20,
+      "forceUpdate": false
+    },
+    "jump": {
+      "minVersionCode": 20,
+      "forceUpdate": false
+    },
+    "jump-forest": {
+      "minVersionCode": 20,
+      "forceUpdate": false
+    },
+    "tap-hop": {
+      "minVersionCode": 20,
+      "forceUpdate": false
+    }
+  }
 }
